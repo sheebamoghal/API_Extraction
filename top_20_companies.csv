@@ -1,0 +1,21 @@
+rank,company_name,company_website,wiki_title,product,industry,assets
+1,Walmart,http://www.stock.walmart.com,Walmart,,retail,244.86 billion
+2,Exxon Mobil,http://www.exxonmobil.com,ExxonMobil,"power generation, oil products, crude oil, natural gas, petrochemicals","gas, energy industry, oil, energy, gas industry",338.923 billion
+3,Berkshire Hathaway,http://www.berkshirehathaway.com,Berkshire Hathaway,"media, aerospace, automotive, mass media, insurance, investment, restaurants, toys, sporting goods, sports equipment, food processing, utilities, property, real estate, diversified investments, public utility, consumer products, internet, automotive industry, types, casualty insurance, final good","company, conglomerate",958.8 billion
+4,Apple,http://www.apple.com,Apple Inc.,"apple watch, computer, ipad, iphone, mac, airpods","online services, software services, consumer electronics",351.02 billion
+5,UnitedHealth Group,http://www.unitedhealthgroup.com,UnitedHealth Group,,"managed healthcare, insurance, managed care",212.206 billion
+6,McKesson,http://www.mckesson.com,McKesson Corporation,"health care services, pharmaceuticals, medical technology",healthcare,63.3 billion
+7,CVS Health,http://www.cvshealth.com,CVS Health,,"health insurance, pharmacy, managed care, managed healthcare, shop, health insurance in the united states",232.99 billion
+8,Amazon.com,http://www.amazon.com,Amazon (company),"fire tv, amazon fire tablet, fire os, amazon echo, echo, kindle, amazon fire tv, amazon kindle, fire tablet","e-commerce, artificial intelligence, self-driving cars, entertainment, supermarket, cloud computing, consumer electronics, digital distribution",420.549 billion
+9,AT&T,http://www.att.com,AT&T,"ubl, internet services, mobile telephones, fixed-line telephones, landline, internet service provider, mobile phone, satellite television","telecommunications, technology, technology company, telecommunications industry",551.62 billion
+10,General Motors,http://www.gm.com,General Motors,"automobile parts, automobiles, car, commercial vehicles","automotive industry, automotive",244.718 billion
+11,Ford Motor,http://www.corporate.ford.com,Ford Motor Company,"luxury vehicles, automotive parts, automobiles, suvs, commercial vehicles, pickup trucks, list of auto parts, car","automotive industry, automotive",257.0 billion
+12,AmerisourceBergen,http://www.amerisourcebergen.com,AmerisourceBergen,"pharmaceuticals, pharmacy services",pharmaceutical,57.34 billion
+13,Chevron,http://www.chevron.com,Chevron Corporation,"see chevron products, natural gas, petrochemicals, gasoline, other, marketing brands","ubl, gas, energy industry, petroleum industry, oil, energy",239.54 billion
+14,Cardinal Health,http://www.cardinalhealth.com,Cardinal Health,"pharmaceutical products, medical, services",healthcare,44.45 billion
+15,Costco,http://www.costco.com,Costco,,retail,64.17 billion
+16,Verizon,http://www.verizon.com,Verizon Communications,"iptv, internet, broadband, digital media, internet of things, cable television, telematics, landline, digital television, mobile phone","mass media, telecommunications, telecommunications industry",366.6 billion
+17,Kroger,http://www.thekrogerco.com,Kroger,"other specialty, supermarket, supercenter, superstore",retail,49.086 billion
+18,General Electric,http://www.ge.com,General Electric,"electrical distribution, aircraft engines, wind turbines, finance, electric power distribution, software, health care, energy","company, conglomerate",198.874 billion
+19,Walgreens Boots Alliance,http://www.walgreensbootsalliance.com,Walgreens Boots Alliance,,"retail, pharmaceutical industry, pharmaceuticals, retail industry",90.124 billion
+20,JPMorgan Chase,http://www.jpmorganchase.com,JPMorgan Chase,"risk management, equities trading, commodities, asset management, mutual funds, banking, private equity, credit cards, mortgage loans, wealth management, insurance, investment management",financial services,3.74 trillion
